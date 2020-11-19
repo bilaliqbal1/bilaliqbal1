@@ -31,4 +31,19 @@ Shoutout to [Brad Garropy][brad] for the inspiration!
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="git" width="20" height="20"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/>  </p>
   
-  https://github-readme-stats.vercel.app/api?username=bilaliqbal1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21
+ ## My GitHub Stats &#x1f4c8;
+
+<a href="https://github.com/bilaliqbal1/bilaliqbal1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilaliqbal1&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/bilaliqbal1/bilaliqbal1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bilaliqbal1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="bilaliqbal GitHub Stats" />
+</a>
+ 
+ <p align="center">
+<a href="https://www.linkedin.com/in//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" width="20" /></a>
+  <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="20" width="20" /></a>
+  <a href="https://twitter.com/arsalan90m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/arsalan90m" height="20" width="20" /></a>
+  
+
+</p>
