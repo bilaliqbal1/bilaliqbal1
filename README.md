@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bilal Iqbal 👋 I'm a Developer, Freelancer and Teacher</h1>
-<h3 align="center">A enthusiastic Web developer</h3> 
+<h3 align="center">An enthusiastic Web developer</h3> 
 
 - 🔭 I’m currently working on React, Redux
 - 🌱 I’m currently learning GraphQL, Design, MongoDB and many more.
@@ -28,3 +28,4 @@ Shoutout to [Brad Garropy][brad] for the inspiration!
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/react.png" alt="react" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> </p>
+    <img src="https://img.icons8.com/color/48/000000/vscode.png" alt="vscode" width="20" height="20"/> 
