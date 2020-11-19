@@ -40,10 +40,3 @@ Shoutout to [Brad Garropy][brad] for the inspiration!
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bilaliqbal1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="bilaliqbal GitHub Stats" />
 </a>
  
- <p align="center">
-<a href="https://www.linkedin.com/in//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" width="20" /></a>
-  <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="20" width="20" /></a>
-  <a href="https://twitter.com/arsalan90m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/arsalan90m" height="20" width="20" /></a>
-  
-
-</p>
