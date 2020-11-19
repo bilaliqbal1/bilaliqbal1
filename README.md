@@ -22,10 +22,13 @@ Shoutout to [Brad Garropy][brad] for the inspiration!
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=bilaliqbal1" alt="bilaliqbal1" />
   
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="git" width="20" height="20"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="git" width="20" height="20"/> 
+  <img src="https://img.icons8.com/color/48/000000/html.png" alt="git" width="20" height="20"/>
+  <img src="https://img.icons8.com/color/48/000000/css.png" alt="git" width="20" height="20"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="git" width="20" height="20"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/react.png" alt="react" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> </p>
-    <img src="https://img.icons8.com/color/48/000000/vscode.png" alt="vscode" width="20" height="20"/> 
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="git" width="20" height="20"/>    
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="git" width="20" height="20"/>
+  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="git" width="20" height="20"/> 
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="git" width="20" height="20"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/>  </p>
+  
+  https://github-readme-stats.vercel.app/api?username=bilaliqbal1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21
