@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Bilal Iqbal 👋 I'm a Developer, Freelancer and Teacher</h1>
+<h3 align="center">A enthusiastic Web developer</h3> 
 
-<!--
-**bilaliqbal1/bilaliqbal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on React, Redux
+- 🌱 I’m currently learning GraphQL, Design, MongoDB and many more.
+- 🤔 I’m looking for best opportunities
+- 💬 Ask me about anything related to Web Design And Development
+- 📫 How to reach me: muhammadbilaliqba98@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Enjoy developer memes
 
-Here are some ideas to get you started:
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Shoutout to [Brad Garropy][brad] for the inspiration!
+
+[twitter]: https://twitter.com/Bilaliqbal124
+[instagram]: https://www.instagram.com/m_bilaliqbal_1/
+[linkedin]: https://www.linkedin.com/in/bilal-iqbal-23996b166/
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=bilaliqbal1" alt="bilaliqbal1" />
+  
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="git" width="20" height="20"/>
+  <img src="https://img.icons8.com/color/48/000000/HTML.png" alt="git" width="20" height="20"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="git" width="20" height="20"/> 
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="git" width="20" height="20"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
+  <img src="https://img.icons8.com/color/48/000000/react.png" alt="react" width="20" height="20"/> 
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> </p>
