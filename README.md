@@ -13,8 +13,6 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-Shoutout to [Brad Garropy][brad] for the inspiration!
-
 [twitter]: https://twitter.com/Bilaliqbal124
 [instagram]: https://www.instagram.com/m_bilaliqbal_1/
 [linkedin]: https://www.linkedin.com/in/bilal-iqbal-23996b166/
@@ -34,7 +32,7 @@ Shoutout to [Brad Garropy][brad] for the inspiration!
  ## My GitHub Stats &#x1f4c8;
 
 <a href="https://github.com/bilaliqbal1/bilaliqbal1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilaliqbal1&hide=java,html,css,php,bootstrap,react&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilaliqbal1&hide=java,html,&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/bilaliqbal1/bilaliqbal1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bilaliqbal1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="bilaliqbal GitHub Stats" />
