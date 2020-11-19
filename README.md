@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning GraphQL, Design, MongoDB and many more.
 - 🤔 I’m looking for best opportunities
 - 💬 Ask me about anything related to Web Design And Development
-- 📫 How to reach me: muhammadbilaliqba98@gmail.com
+- 📫 How to reach me: muhammadbilaliqbal98@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Enjoy developer memes
 
@@ -23,7 +23,6 @@ Shoutout to [Brad Garropy][brad] for the inspiration!
 <img src="https://komarev.com/ghpvc/?username=bilaliqbal1" alt="bilaliqbal1" />
   
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="git" width="20" height="20"/>
-  <img src="https://img.icons8.com/color/48/000000/HTML.png" alt="git" width="20" height="20"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="git" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="git" width="20" height="20"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
