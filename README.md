@@ -29,12 +29,12 @@
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="git" width="20" height="20"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/>  </p>
   
- ## My GitHub Stats &#x1f4c8;
-
+ <!--## My GitHub Stats &#x1f4c8;-->
+<!--
 <a href="https://github.com/bilaliqbal1/bilaliqbal1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilaliqbal1&hide=java,html,&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/bilaliqbal1/bilaliqbal1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bilaliqbal1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="bilaliqbal GitHub Stats" />
-</a>
+</a>-->
  
