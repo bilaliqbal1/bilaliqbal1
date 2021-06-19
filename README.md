@@ -16,7 +16,7 @@
 
 [twitter]: https://twitter.com/Bilaliqbal124
 [instagram]: https://www.instagram.com/m_bilaliqbal_1/
-[linkedin]: https://www.linkedin.com/in/bilal-iqbal-23996b166/
+[linkedin]: https://www.linkedin.com/in/muhammadbilaliqbal1
 [stackoverflow]: https://stackoverflow.com/users/13735028/m-bilal-iqbal
 
 <p align="left">
