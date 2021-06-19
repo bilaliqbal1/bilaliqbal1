@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on React, Redux
 - 🌱 I’m currently learning GraphQL, Design, MongoDB and many more.
-- 🤔 I’m looking for best opportunities
+- 🤔 Seeking for good opportunities
 - 💬 Ask me about anything related to Web Design And Development
 - 📫 How to reach me: muhammadbilaliqbal98@gmail.com
 - 😄 Pronouns: he/him
