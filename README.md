@@ -7,7 +7,7 @@
 - 💬 Ask me about anything related to Web Design And Development
 - 📫 How to reach me: muhammadbilaliqbal98@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Enjoy developer memes
+- ⚡ Fun fact: Enjoying developer memes
 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
