@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bilal Iqbal 👋 I'm a Developer, Freelancer and Teacher</h1>
-<h3 align="center">An enthusiastic Web developer</h3> 
+<h3 align="center">An enthusiastic Software developer</h3> 
 
 - 🔭 I’m currently working on React, Redux
 - 🌱 I’m currently learning GraphQL, Design, MongoDB and many more.
