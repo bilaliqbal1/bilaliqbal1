@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Bilal Iqbal 👋 I'm a Developer, Freelancer and Teacher</h1>
+<h1 align="center">Hi, I'm Bilal Iqbal 👋 I'm a Sofware Engineer, Freelancer and Teacher</h1>
 <h3 align="center">An enthusiastic Software engineer</h3> 
 
-- 🔭 I’m currently working on MERN.
+- 🔭 I’m currently working as a Senior Software Engineer.
 - 🌱 I’m currently learning Typescript, nest.js and many more.
 - 🤔 Seeking for good opportunities
 - 💬 Ask me about anything related to Web Design And Development
